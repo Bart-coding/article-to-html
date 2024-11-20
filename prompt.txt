@@ -1,0 +1,11 @@
+Proszę wygenerować kod HTML dla powyższego artykułu, tak żeby kod HTML spełniał następujące wymagania:
+
+1. Struktura HTML:
+- Użyj odpowiednich tagów HTML do strukturyzacji treści, takich jak <h1>, <h2>, <p>, <ul>, <li>, itp., w zależności od kontekstu.
+2. Obrazki:
+- Określ w artykule miejsca, w których należy dodać grafiki, oznaczając je za pomocą tagu <img> z atrybutem src="image_placeholder.jpg".
+- Dodaj atrybut alt do każdego obrazka, zawierający dokładny prompt, który można wykorzystać do wygenerowania odpowiedniej grafiki.
+- Umieść podpisy pod grafikami za pomocą odpowiedniego tagu HTML, np. <figcaption>.
+3. Zakazy:
+- Wygenerowany kod nie powinien zawierać kodu CSS ani JavaScript.
+- Wygenerowany kod ma zawierać tylko treść, którą można wstawić pomiędzy tagi <body> i </body>. Nie dodawaj znaczników <html>, <head> ani <body>.
