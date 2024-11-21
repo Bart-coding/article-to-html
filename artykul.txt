@@ -1,4 +1,4 @@
-Sztuczna inteligencja: wpływ i wyzwania
+Sztuczna inteligencja: wpływ i wyzwania
 
 Sztuczna inteligencja (AI) to dziedzina nauki i technologii, która zajmuje się tworzeniem maszyn i programów zdolnych do wykonywania zadań wymagających ludzkiej inteligencji, takich jak uczenie się, rozumienie języka naturalnego i podejmowanie decyzji. AI stała się integralną częścią naszego codziennego życia, od asystentów głosowych w smartfonach, takich jak Siri czy Google Assistant, po systemy rekomendacyjne na platformach streamingowych, takich jak Netflix czy Spotify. Wspiera nas w planowaniu tras, automatyzacji domowych urządzeń oraz w komunikacji. Obecnie temat AI jest szczególnie aktualny dzięki dużym modelom językowym, takim jak ChatGPT.
 
