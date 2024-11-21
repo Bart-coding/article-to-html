@@ -1,11 +1,16 @@
-Proszę wygenerować kod HTML dla powyższego artykułu, tak żeby kod HTML spełniał następujące wymagania:
+Proszę wygenerować profesjonalny i czysty, zgodny z najlepszymi standardami kod HTML dla powyższego artykułu, tak żeby kod HTML spełniał następujące wymagania:
 
 1. Struktura HTML:
 - Użyj odpowiednich tagów HTML do strukturyzacji treści, takich jak <h1>, <h2>, <p>, <ul>, <li>, itp., w zależności od kontekstu.
 2. Obrazki:
 - Określ w artykule miejsca, w których należy dodać grafiki, oznaczając je za pomocą tagu <img> z atrybutem src="image_placeholder.jpg".
-- Dodaj atrybut alt do każdego obrazka, zawierający dokładny prompt, który można wykorzystać do wygenerowania odpowiedniej grafiki.
+- Dodaj atrybut alt do każdego obrazka, zawierający dokładny, dobry prompt, który można wykorzystać do wygenerowania odpowiedniej grafiki.
 - Umieść podpisy pod grafikami za pomocą odpowiedniego tagu HTML, np. <figcaption>.
 3. Zakazy:
 - Wygenerowany kod nie powinien zawierać kodu CSS ani JavaScript.
-- Wygenerowany kod ma zawierać tylko treść, którą można wstawić pomiędzy tagi <body> i </body>. Nie dodawaj znaczników <html>, <head> ani <body>.
+- Wygenerowany kod ma zawierać tylko treść, którą można wstawić pomiędzy tagi <body> i </body>. Nie dodawaj znaczników <html>, <head> ani <body> i żadnych dodatków jak np. "```html".
+4. Wskazówki:
+- Zadbaj o to, aby obrazki interesująco pasowały do tekstu, żeby dawały użytkownikowi inspirację do pomyślenia szerzej o podejmowanych w artykule tematach, np. by obrazek dot. nowego wynalazku przedstawił jakieś zjawisko społeczne z nim związane. Zadbaj równiez o to, żeby teksty w atrybutach alt i podpisy w figcaption nie był zbyt długie, żeby opisywały zdjęcia lub obrazki, które naprawdę powinny zostać użyte w artykule, żeby to było realistyczne (ale jednocześnie nie nudne).
+- Zarówno atrybut alt, jak i podpis powinien zawierać tekst w tym języku, w którym napisany jest artykuł. Alt powinien zawierać prompt, który opisze bardzo dobrze i zwięźle, co powinno być widać na obrazku, a figcaption powinien opisać obrazek w informatywny sposób, ale nie na siłę, w taki sposób, w jaki wypowiadają się skrótowo dobrzy mówcy.
+- Popisz się ciekawym urozmaiceniem w ramach zadania (nie zmieniając treści artykułu), ale zadbaj o to, by nie przesadzić, aby warunki zadania pozostały spełnione.
+- Nie zadawaj pytań, zwróć kod HTML w zgodzie z powyższymi warunkami.
