@@ -1,2 +1,3 @@
 # article-to-html
-Simple app created with ChatGPT, Perplexity and Copilot to generate html file from txt article and prompt.
+Generate html file from txt article and prompt.\
+*Created with: VS Code, ChatGPT, Perplexity, Copilot and Google Colab*
